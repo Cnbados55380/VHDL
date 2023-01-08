@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../SED_TRABAJO_FINAL.srcs/sim_1/new/FSM_SELECTION_tb.vhd" \
+"../../../../../SED_TRABAJO_FINAL.srcs/sim_1/new/FSM_PRICE_tb.vhd" \
+"../../../../../SED_TRABAJO_FINAL.srcs/sim_1/new/COUNTER_tb.vhd" \
+"../../../../../SED_TRABAJO_FINAL.srcs/sim_1/new/FSM_DISPLAY_tb.vhd" \
+
+# Do not sort compile order
+nosort
