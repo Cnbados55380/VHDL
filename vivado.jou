@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sun Jan  8 22:19:26 2023
+# Process ID: 5200
+# Current directory: C:/Users/SMN/AppData/Roaming/Xilinx/Vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2316
+# Log file: C:/Users/SMN/AppData/Roaming/Xilinx/Vivado/vivado.log
+# Journal file: C:/Users/SMN/AppData/Roaming/Xilinx/Vivado\vivado.jou
+# Running On: DESKTOP-OJV6UJT, OS: Windows, CPU Frequency: 2494 MHz, CPU Physical cores: 2, Host memory: 8446 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/SMN/.Xilinx/SED_TRABAJO_FINAL/SED_TRABAJO_FINAL.xpr
+archive_project C:/Users/SMN/.Xilinx/SED_TRABAJO_FINAL.xpr.zip -temp_dir C:/Users/SMN/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-5200-DESKTOP-OJV6UJT -force -include_local_ip_cache
